@@ -32,8 +32,8 @@ RUN ALPINE_GLIBC_BASE_URL="https://github.com/andyshinn/alpine-pkg-glibc/release
 
 ENV LANG=C.UTF-8 \
     JAVA_VERSION=8 \
-    JAVA_UPDATE=77 \
-    JAVA_BUILD=03 \
+    JAVA_UPDATE=92 \
+    JAVA_BUILD=14 \
     JAVA_PACKAGE=server-jre \
     JAVA_HOME="/usr/lib/jvm/default-jvm"
 
